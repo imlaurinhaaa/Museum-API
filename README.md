@@ -21,4 +21,4 @@ Esta é a API do Museu, que permite gerenciar artistas e galerias. A API fornece
 
 Você pode testar a API usando o Postman. Clique no link abaixo para importar a coleção do Postman:
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/42619953/2sB2j3BBxj)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/42619953/2sB2j3BrhL)
